@@ -42,7 +42,7 @@
 ## 💼 Professional Experience
 I have a diverse background in building engaging user interfaces and web solutions with a focus on mentoring and team efficiency. I've been involved in:
 - Rebuilding and expanding a team bot to a corporate messenger and migrating to new clusters.
-- Leading the transfer of a dental equipment service project to a microservice architecture.
+- Participation in the transition of a dental equipment maintenance project to a microservice architecture.
 - Optimizing applications for SEO and enhancing user engagement.
 - Collaborating on the development of new features and functionalities across various platforms.
 - Mentoring juniors and contributing to internal educational initiatives.
